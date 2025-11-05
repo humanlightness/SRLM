@@ -29,3 +29,10 @@ It describes a structured conversational process for maintaining emotional clari
 ## License
 This work is licensed under the **CC BY 4.0** license.  
 Reproduction and adaptation are permitted, provided attribution to the original author is retained.
+
+---
+
+## Quick Access
+- [SRLM_v0.1.md](SRLM_v0.1.md) — One-page summary
+- [SRLM-Spec_v0.1.md](SRLM-Spec_v0.1.md) — Formal specification
+- [SRLM-Whitepaper_v0.1.md](SRLM-Whitepaper_v0.1.md) — Conceptual background
