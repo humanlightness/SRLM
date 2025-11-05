@@ -1,5 +1,7 @@
 # SRLM — Structured Resonant Language Model
+
 > SRLM exists to restore balance between self, others, and the world.
+
 Version: v0.1 (Draft)
 License: CC BY 4.0
 Author: woo seheon
